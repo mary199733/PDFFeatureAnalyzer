@@ -137,3 +137,12 @@ cybersecurity research
 feature engineering for machine learning
 
 dataset generation for security analytics
+
+## Acknowledgement
+
+This project has been made possible through the Lockheed Martin Cybersecurity Research Fund (LMCRF) – from September 2020 to December 2021.
+
+## Project Team members
+
+* [**Arash Habibi Lashkari:**](http://ahlashkari.com/index.asp) Founder and Project Leader
+* [**Maryam Issakhani:**](https://ca.linkedin.com/in/maryam-issakhani-a29a39160) Research and Development (MCS Student)
